@@ -1,0 +1,8 @@
+# Faixas de cor em CIELAB (OpenCV: L,a,b ∈ [0..255], com a/b deslocados por +128)
+# Ajuste fino pode ser necessário para a sua iluminação/pista.
+# Dica: mantenha L (luminosidade) mais largo e selecione a “cor” via a/b.
+
+black:
+  # Preto: L baixo; a/b amplos (deixe largo e refine se houver falsos positivos).
+  min: [  0,   0,   0 ]
+  max: [ 80, 255, 255 ]
