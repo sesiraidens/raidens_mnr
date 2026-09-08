@@ -1,12 +1,12 @@
 <div align="center">
 
-![Raidens](https://sesiraidens.github.io/portifolio/assets/logo_color-aNRVU26Y.png)
+<img src="https://sesiraidens.github.io/portifolio/assets/logo_color-aNRVU26Y.png" width="80">
 
 # RAIDENS MNR 2025
 
 **Trabalho apresentado pela equipe RAIDENS - SESI Aluminio 192 na Mostra Nacional de Robotica 2025**
 
-![MNR 2025](https://mnr.robocup.org.br/wp-content/uploads/2021/08/image-13.png)
+<img src="https://mnr.robocup.org.br/wp-content/uploads/2021/08/image-13.png" width="120">
 
 </div>
 
