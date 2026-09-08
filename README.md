@@ -1,10 +1,20 @@
-# RAIDENS MNR
+<div align="center">
 
-Repositorio da equipe **RAIDENS - SESI Aluminio 192** para a **MNR 2025 (Mostra Nacional de Robotica)**.
+![Raidens](https://sesiraidens.github.io/portifolio/assets/logo_color-aNRVU26Y.png)
+
+# RAIDENS MNR 2025
+
+**Trabalho apresentado pela equipe RAIDENS - SESI Aluminio 192 na Mostra Nacional de Robotica 2025**
+
+![MNR 2025](https://mnr.robocup.org.br/wp-content/uploads/2021/08/image-13.png)
+
+</div>
+
+---
 
 ## Sobre
 
-Sistema de visao computacional desenvolvido em **Python** com **OpenCV** para o rob competidor da **Olimpiada Brasileira de Robotica (OBR)**. O projeto foca em seguimento de linha, deteccao de cores e tomada de decisao autonoma.
+Este e o repositorio do trabalho apresentado pela equipe **RAIDENS - SESI Aluminio 192** na **MNR 2025 (Mostra Nacional de Robotica)**. O projeto consiste em um sistema de visao computacional desenvolvido em **Python** com **OpenCV** para o rob competidor da **Olimpiada Brasileira de Robotica (OBR)**, com foco em seguimento de linha, deteccao de cores e tomada de decisao autonoma.
 
 ## Funcionalidades
 
@@ -46,8 +56,12 @@ pip install -r requirements.txt
 python Camera.py
 `
 
-## Equipe
+---
 
-**RAIDENS - SESI Aluminio 192**
+<div align="center">
 
-Projeto apresentado na **Mostra Nacional de Robotica 2025**.
+**Equipe RAIDENS - SESI Aluminio 192**
+
+MNR 2025
+
+</div>
