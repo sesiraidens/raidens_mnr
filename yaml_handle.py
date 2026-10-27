@@ -57,3 +57,4 @@ def get_yaml_data(file_path):
         print(f"[YAML_HANDLE] Erro ao carregar {file_path}: {e}")
         print("[YAML_HANDLE] Usando faixas LAB padrão (defaults).")
         return dict(_DEFAULT_LAB)
+
