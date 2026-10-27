@@ -171,6 +171,3 @@ if __name__ == "__main__":
         camera.camera_close()
         cv2.destroyAllWindows()
         print(">>> [EXIT] Finalizado.")
-
-
-
