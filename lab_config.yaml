@@ -6,3 +6,4 @@ black:
   # Preto: L baixo; a/b amplos (deixe largo e refine se houver falsos positivos).
   min: [  0,   0,   0 ]
   max: [ 80, 255, 255 ]
+
